@@ -2,5 +2,4 @@
 pandas
 numpy
 streamlit
-re-python-headless
 string
